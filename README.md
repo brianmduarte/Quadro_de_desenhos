@@ -1,7 +1,8 @@
 <h2>Oláa! Seja bem vindo ao projeto "Quadro de Desenhos" 🔲 </h2>
 
-<img href="images\quadro.PNG" width="350px">
-
+<div align="center">
+<img src="images\quadro.PNG" width="450px">
+</div>
 <hr>
 
 O objetivo deste projeto foi desenvolver um quadro de desenho com a possibilidade de alternar algumas cores previamente setadas. Para isso, utilizei o HTML, CSS e Javascript.

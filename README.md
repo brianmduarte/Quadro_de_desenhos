@@ -1,6 +1,6 @@
-<h2>Oláa! Seja bem vindo ao projeto "Quadro de Desenho"</h2>
+<h2>Oláa! Seja bem vindo ao projeto "Quadro de Desenhos" 🔲 </h2>
 
-<img href="images\quadro.PNG">
+<img href="images\quadro.PNG" width="350px">
 
 <hr>
 

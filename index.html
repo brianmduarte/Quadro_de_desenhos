@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Quadro de Desenho</title>
+</head>
+<body>
+    
+    <h1> Quadro de Desenhos </h1>
+    <canvas id="tela" width="800px" height="400px"></canvas>
+
+        <!-- área de desenho-->
+        <div class="colorArea">
+            <div data-color="black" style="background-color: black" class="color active" ></div>
+            <div data-color="blue" style="background-color: blue" class="color" ></div>
+            <div data-color="red" style="background-color: red" class="color" ></div>
+            <div data-color="green" style="background-color: green" class="color" ></div>
+            <div data-color="yellow" style="background-color: yellow" class="color" ></div>
+            <div data-color="gray" style="background-color: gray" class="color" ></div>
+        </div>
+        
+        <!-- button para limpar área de desenho-->
+        <button class="clear"> Limpar quadro</button>
+
+        <!-- rodapé -->
+        <footer> Desenvolvido por Brian Duarte <br>
+            &copy; Todos os direitos reservados.
+        </footer>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
